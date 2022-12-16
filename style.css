@@ -1,0 +1,61 @@
+h1{
+    text-align: center;
+    color: darkgreen;
+    font-size: 80px;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    background-image: url('Planets_Nebulae_in_space_518424_1920x1080.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+.title{
+    color: rgb(255, 255, 255);
+}
+
+.pon{
+    width: 300px;
+    height: 700px;
+}
+.btn{
+    border: 1px solid black;
+    padding: 10px;
+    color: blueviolet;
+    background-color: aqua;
+    text-decoration: none;
+    border-radius: 20px;
+    position: absolute;
+    top: 630px;
+    left: 860px;
+}
+.pan{
+    width: 500px;
+    height: 500px;
+    margin-left: 50px;
+}
+.pyn{
+    width: 500px;
+    height: 500px;
+    margin-left: 50px;
+}
+.pen{
+    width: 500px;
+    height: 500px;
+    margin-left: 50px;
+}
+.pet{
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    display: block;
+}
+.audio{
+    width: 100%;
+}
+
+
